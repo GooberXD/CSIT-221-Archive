@@ -1,13 +1,13 @@
-# 📚 CSIT-221 Data Structures & Algorithms
+# CSIT-221 Data Structures & Algorithms
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Course](https://img.shields.io/badge/Course-CSIT--221-blue)
 ![Focus](https://img.shields.io/badge/Focus-DSA-orange)
 
-## 📖 About
+## About
 Welcome to my archive for **CSIT-221**. This repository contains a comprehensive collection of my notes, solutions, and implementations of various Data Structures and Algorithms. It serves as a documentation of my learning journey and a reference for standard DSA implementations.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Folder | Description |
 | :--- | :--- |
@@ -19,4 +19,4 @@ Welcome to my archive for **CSIT-221**. This repository contains a comprehensive
 | **Traversals & Expressions** | Traversals and expression parsing. |
 | **Graphs** | Graph theory implementations. |
 | **Structures** | Custom data structs and definitions. |
-| **Throwaway Codes** | 🧪 *Sandbox:* Testing environments, scratchpad code, and miscellaneous logic tests. |
+| **Throwaway Codes** | Miscellaneous code and logic tests. |
