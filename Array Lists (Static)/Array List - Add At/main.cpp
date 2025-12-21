@@ -1,7 +1,7 @@
 // The List ADT has the following operations already implemented in class:
 
 // void add(int num): Inserts num into the list.
-// int get(int pos): Returns the integer in the _pos_th position.
+// int get(int pos): Returns the integer in the _pos_th position. 
  
 
 // Your task is to implement the following operations:
